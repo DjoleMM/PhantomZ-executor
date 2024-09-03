@@ -16,7 +16,7 @@ Using this exploit is pretty simple
 5. Choose a script from the listbox at the right or get one from the internet and click execute `And boom`
   
 ## More Information  
-This plugin was tested on a Windows10 x64 bit machine
+This plugin was tested on a Windows10 x64 bit machine on browser
 
 Visual studio may give an message that says "Security Warning for Phoenix... You should only open projects from...", just click ok if you belive its trustworthy and if you don't check the sourcecode and you can see yourself :))
 
