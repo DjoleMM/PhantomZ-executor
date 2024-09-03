@@ -14,12 +14,6 @@ Using this exploit is pretty simple
 3. Open PhoenixZ.exe and roblox
 4. Press attach and close the website it opened
 5. Choose a script from the listbox at the right or get one from the internet and click execute `And boom`
-
-## How to compile
-If you would like to compile yourself then this is how
-1. Open the .sln file with **Visual Studio 2019** 
-2. Make sure its set to debug and "Any CPU" or x86
-3. Compile!!!
   
 ## More Information  
 This plugin was tested on a Windows10 x64 bit machine
